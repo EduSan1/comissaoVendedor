@@ -33,7 +33,7 @@ public class CalcularEmpresa {
 		}
 
 		salario = comissão * valor;
-		System.out.println("A comissão de " + nome + "é: " + comissão);
+		System.out.println("A comissão de " + nome + " é: " + comissão);
 		System.out.println("e o valor que deverá receber é: " + salario);
 
 	}
